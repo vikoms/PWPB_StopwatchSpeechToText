@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Stopwatch&amp;SpeechToText</string>
+    <string name="hint">Tap Mic untuk memulai</string>
+</resources>
